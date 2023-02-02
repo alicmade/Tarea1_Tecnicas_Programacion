@@ -3,7 +3,7 @@ Tarea 1 Curso_2023
 
 Mi repositorio es https://github.com/alicmade/Tarea1_Tecnicas_Programacion.git
 
-##Enunciado 
+## Enunciado 
 
 __Te dimos una pequeña introducción a los algoritmos y unos cuantos ejemplos. Ahora, antes de seguir adelante, queremos saber en qué algoritmos puedes pensar.__
 
