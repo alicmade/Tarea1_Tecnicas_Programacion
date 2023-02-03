@@ -1,9 +1,3 @@
-//¿Qué algoritmos crees que usan por tus juegos y aplicaciones favoritas? 
+//¿Haz hecho alguna vez un algoritmo para un programa? ¿Qué hacía? ¿Era correcto y eficiente?
 
-
-class   pregunta9   { 
-     public   static   void   main ( String []   args )   { 
-         System . out . println ( "¿Qué algoritmos usas en tu vida cotidiana?" ); 
-    
-     } 
- }  
+//Si, para ejercicios de clase, por ejemplo para calcular la letra del DNI. Funcionaba correctamente y era eficiente  
