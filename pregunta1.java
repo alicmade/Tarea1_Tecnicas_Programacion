@@ -1,4 +1,4 @@
-__¿Qué algoritmos usas en tu vida cotidiana?__
+__ ¿Qué algoritmos usas en tu vida cotidiana? __
 
 jjj
 
